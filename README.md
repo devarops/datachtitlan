@@ -7,3 +7,5 @@ Nos reunimos para echar desmadre todos los jueves de 6:20 a 7:20 (hora de la cdm
 Esta es mi primera consignación.
 
 Voy a agregar esta otra línea desde github web
+
+Me gusta mucho trabajar aquí
